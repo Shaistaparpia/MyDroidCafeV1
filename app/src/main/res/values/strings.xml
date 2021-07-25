@@ -15,6 +15,7 @@
     <string name="recipe_title">Recipe Title</string>
     <string name="prep_cook_time_2hrs"><![CDATA[Prep & Cook Time: 2hrs]]></string>
     <string name="recipe_short_description">Recipe Short Description</string>
+    <string name="how_to_prepare_donuts">How to prepare Donuts</string>
 
     <array name="desserts_images">
         <item>@drawable/donut</item>
@@ -48,7 +49,6 @@
         <item>Donuts are glazed and sprinkled with candy</item>
         <item>Froyo is premium Yogurt</item>
     </string-array>
-
 
 
 </resources>

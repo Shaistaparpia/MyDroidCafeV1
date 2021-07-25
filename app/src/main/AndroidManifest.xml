@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_my_app_logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyDroidCafeV1">
+        <activity android:name=".DonutActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
