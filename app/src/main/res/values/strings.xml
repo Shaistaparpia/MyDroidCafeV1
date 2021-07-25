@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Droid Cafe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_dessert_recipe_fragment">Hello Dessert recipe Fragment</string>
+    <string name="hello_pastries_recipe_fragment">Hello Pastries Recipe Fragment</string>
+    <string name="hello_stores_fragment">Hello Stores Fragment</string>
+
+
+    <string name="tab_label_1">Desserts</string>
+    <string name="tab_label_2">Pastries</string>
+    <string name="tab_label_3">Stores</string>
+    <string name="desserts_recipes">Desserts Recipes</string>
+    <string name="browse_recipes">Browse Recipes</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="prep_cook_time_2hrs"><![CDATA[Prep & Cook Time: 2hrs]]></string>
+    <string name="recipe_short_description">Recipe Short Description</string>
+
+    <array name="desserts_images">
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+        <item>@drawable/banofipie</item>
+        <item>@drawable/fudge</item>
+        <item>@drawable/cupcake</item>
+        <item>@drawable/cookie</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+    </array>
+
+    <string-array name="dessert_titles">
+        <item>Donut </item>
+        <item>Froyo </item>
+        <item>Banofipie </item>
+        <item>Fudge </item>
+        <item>Cup Cake </item>
+        <item>Cookie </item>
+        <item>Donut </item>
+        <item>Froyo </item>
+    </string-array>
+
+    <string-array name="dessert_description">
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is premium Yogurt</item>
+        <item>Is a delicacy with milk,caramel, banana and biscuit</item>
+        <item>Cake with tasty chocolate glaze</item>
+        <item>Melt in mouth Cake</item>
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is premium Yogurt</item>
+    </string-array>
+
+
+
+</resources>
