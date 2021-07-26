@@ -49,6 +49,39 @@
         <item>Donuts are glazed and sprinkled with candy</item>
         <item>Froyo is premium Yogurt</item>
     </string-array>
+
+
+    <array name="pastry_images">
+        <item>@drawable/chocolate</item>
+        <item>@drawable/croissant</item>
+        <item>@drawable/danish</item>
+        <item>@drawable/meatpie</item>
+        <item>@drawable/puff</item>
+        <item>@drawable/rosemary</item>
+    </array>
+
+    <string-array name="pastry_titles">
+        <item>Chocolate Pastry </item>
+        <item>Croissant </item>
+        <item>Danish Pastry </item>
+        <item>Meat Pie </item>
+        <item>Puff Pastry </item>
+        <item>Rosemary Pastry </item>
+    </string-array>
+
+    <string-array name="pastry_description">
+        <item>Donuts are glazed and sprinkled with candy</item>
+        <item>Froyo is premium Yogurt</item>
+        <item>Is a delicacy with milk,caramel, banana and biscuit</item>
+        <item>Cake with tasty chocolate glaze</item>
+        <item>Melt in mouth Cake</item>
+        <item>Fresh delicious Cookie</item>
+    </string-array>
+
+
+
+
+
     <string name="title_activity_drawer">DrawerActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
