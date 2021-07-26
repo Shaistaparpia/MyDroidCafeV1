@@ -24,4 +24,13 @@
         <item name="android:textColor">@color/grey_dark</item>
         <item name="android:textSize">17sp</item>
     </style>
+
+    <style name="Theme.MyDroidCafeV1.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MyDroidCafeV1.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MyDroidCafeV1.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
