@@ -1,0 +1,1659 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!--/tags -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="Multi tools, Generator, Petrol, Diesel, Pressure washers, Submersibles, Motors">
+    <meta name="generator" content="Eleventy">
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<script>
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'has-js ';
+    </script>
+	<!--//tags -->
+	<link href="/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+	<link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/css/font-awesome.css" rel="stylesheet">
+
+	<!--pop-up-box-->
+	<link href="/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+	<!--//pop-up-box-->
+	<!-- price range -->
+	<link rel="stylesheet" type="text/css" href="/css/jquery-ui1.css">
+	<!-- fonts -->
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/css/custom-style.css" />
+	<title>Home - Multi tools</title>
+</head>
+
+<body>
+	<!-- top-header -->
+	<div class="header-most-top">
+	</div>
+	<!-- //top-header -->
+	<!-- header-bot-->
+	<div class="header-bot">
+		<div class="header-bot_inner_wthreeinfo_header_mid">
+			<!-- header-bot-->
+			<div class="col-md-4 logo_agile">
+				<h1>
+					<a href="/">
+						<img src="/images/photos/logo.png" alt="Multitools logo" width="210" height="70">
+					</a>
+				</h1>
+			</div>
+
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	
+	<!-- navigation -->
+	<div class="ban-top">
+		<div class="container">
+			<div class="top_nav_left">
+				<nav class="navbar navbar-default">
+					<div class="container-fluid">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+							    aria-expanded="false">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav menu__list">
+								<li class="active">
+									<a class="nav-stylehead" href="/">Home
+										<span class="sr-only">(current)</span>
+									</a>
+								</li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle nav-stylehead" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Generators
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-menu multi-column columns-3">
+										<div class="agile_inner_drop_nav_info">
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/generators/petrol/index.html">Petrol Generators</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/generators/diesel/index.html">Diesel Generators</a>
+													</li>
+												</ul>
+											</div>
+											
+											<div class="clearfix"></div>
+										</div>
+									</ul>
+								</li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle nav-stylehead" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Water Pumps
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-menu multi-column columns-3">
+										<div class="agile_inner_drop_nav_info">
+											<div class="col-sm-6 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/waterpumps/petrol/index.html">Petrol Pumps</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-6 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/waterpumps/diesel/index.html">Diesel Pumps</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-6 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/water-pumps/submersibles/index.html">Centrifugal & Submersibles</a>
+													</li>
+												</ul>
+											</div>
+											<div class="clearfix"></div>
+										</div>
+									</ul>
+								</li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle nav-stylehead" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Power Tools
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-menu multi-column columns-3">
+										<div class="agile_inner_drop_nav_info">
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" 
+														href="/products/power-tools/ken/">KEN</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a href="products/power-tools/dewalt/">Dewalt</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a href="products/power-tools/black.decker/">Black&Decker</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a href="products/power-tools/stanley/">Stanley</a>
+													</li>
+												</ul>
+											</div>
+											
+											
+											<div class="clearfix"></div>
+										</div>
+									</ul>
+								</li>
+								<li class="dropdown">
+									<a href="#" 
+										class="dropdown-toggle nav-stylehead" 
+										data-toggle="dropdown" 
+										role="button" 
+										aria-haspopup="true" 
+										aria-expanded="false"
+									>
+										Workshop Equipment
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-menu multi-column columns-3">
+										<div class="agile_inner_drop_nav_info">
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/batterychargers/">Battery Chargers</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/aircompressors/">Air Compressors</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/aircompressors/">Brush Cutters</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/aircompressors/">Pipe Threaders</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/liftingequipment/">Lifting Equipment</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/electricmotors/">Electric Motors</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/weldingmachines/">Welding Machines</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/pillardrills/">Pillar Drills</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/pressurewashers/">Pressure Washers</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/workshop-equip/pipebenders/">Pipe Benders</a>
+													</li>
+												</ul>
+											</div>
+											
+											<div class="clearfix"></div>
+										</div>
+									</ul>
+								</li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle nav-stylehead" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Construction Machinery
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-menu multi-column columns-3">
+										<div class="agile_inner_drop_nav_info">
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/construction-machinery/compaction/">Compaction Equipment</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/construction-machinery/concretemixers/">Concrete Mixers</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/construction-machinery/concretecutters/">Concrete Cutters</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/construction-machinery/pokervibrators/">Poker Vibrators</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/construction-machinery/powertrowels/">Power Trowels</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="/products/construction-machinery/woodworking/">Woodworking Machinery</a>
+													</li>
+												</ul>
+											</div>
+
+											<div class="clearfix"></div>
+										</div>
+									</ul>
+								</li>
+								<li class="dropdown">
+									<a href="#" 
+										class="dropdown-toggle nav-stylehead" 
+										data-toggle="dropdown" 
+										role="button" 
+										aria-haspopup="true" 
+										aria-expanded="false"
+									>
+										Tolsen
+										<span class="caret"></span>
+									</a>
+									<ul class="dropdown-menu multi-column columns-3">
+										<div class="agile_inner_drop_nav_info">
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/holding-tools/">Holding Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/mechanics-tools/">Mechanics Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/fastening-tools/">Fastening Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/striking-tools/">Striking Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/cutting-tools/">Cutting Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/garden-tools/">Garden Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/finishing-tools/">Finishing Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/plumbing-tools/">Plumbing Tools</a>
+													</li>
+												</ul>
+											</div>
+
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/measuring-tools/">Measuring Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/electrical-tools/">Electrical Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/insulated-tools/">Insulated Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/painting-and-masonry-tools/">Painting & Masonry Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/ppe/">PPE</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/automotive-tools/">Automative Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/welding-tools/">Welding Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/power-tool-accessories/">Power Tools Accessories</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/power-tools/">Power Tools</a>
+													</li>
+												</ul>
+											</div>
+											<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/pneumatic-tools/">Pneumatic Tools</a>
+													</li>
+												</ul>
+										</div>
+										<div class="col-sm-4 multi-gd-img">
+												<ul class="multi-column-dropdown">
+													<li>
+														<a class="dropdown-item" href="http://www.tolsentools.com/product-catagories/non-sparking-tools/">Non-sparking Tools</a>
+													</li>
+												</ul>
+											</div>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<!-- //navigation -->
+	
+	
+	<!-- banner -->
+	<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		<!-- Indicators-->
+		<ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#myCarousel" data-slide-to="1" class=""></li>
+			<li data-target="#myCarousel" data-slide-to="2" class=""></li>
+			<li data-target="#myCarousel" data-slide-to="3" class=""></li>
+		</ol>
+		<div class="carousel-inner" role="listbox">
+			<div class="item active">
+				<div class="container">
+					<div class="carousel-caption">
+					</div>
+				</div>
+			</div>
+			<div class="item item2">
+				<div class="container">
+					<div class="carousel-caption">
+					</div>
+				</div>
+			</div>
+			<div class="item item3">
+				<div class="container">
+					<div class="carousel-caption">
+					</div>
+				</div>
+			</div>
+			<div class="item item4">
+				<div class="container">
+					<div class="carousel-caption">
+					</div>
+				</div>
+			</div>
+		</div>
+		<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+			<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		</a>
+		<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+			<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		</a>
+	</div>
+	<!-- //banner -->
+
+	<!-- top Products -->
+	<div class="ads-grid">
+		<div class="container">
+			<!-- tittle heading -->
+			<h3 class="tittle-w3l">Our Top Products
+				<span class="heading-style">
+					<i></i>
+					<i></i>
+					<i></i>
+				</span>
+			</h3>
+			<!-- //tittle heading -->
+			
+			<!-- product right -->
+			<div class="agileinfo-ads-display col-md-12">
+				<div class="wrapper">
+					<!-- first section (generators) -->
+					<div class="product-sec1">
+						<h3 class="heading-tittle">Generators</h3>
+						<div class="row">
+							
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/FPG1801.png" alt="product image" width="140" height="180" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/photos/FPG1801.png
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/generators/petrol/index.html">Petrol Generators</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/generators/petrol/index.html">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+							
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/SP25	00.png" alt="product image" width="140" height="180" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/photos/SP25000.png
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/generators/diesel/index.html">Diesel Generators</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/generators/diesel/index.html">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<!-- first section (generators) -->
+					
+					<!-- second section (pumps) -->
+					<div class="product-sec1">
+						<h3 class="heading-tittle">Water Pumps</h3>
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/WP30X.png" alt="product image" width="140" height="220" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/mk4.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/waterpumps/petrol/index.html">Petrol pumps</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/waterpumps/petrol/index.html">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/WD20X.png" alt="product image" width="140" height="220" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/mk5.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/waterpumps/diesel/index.html">Diesel pumps</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/water-pumps/dieselpumps/index.html">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/mk6.jpg" alt="product image" width="140" height="200" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/mk6.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/water-pumps/submersibles/index.html">Centrifugal & Submersibles</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/water-pumps/submersibles/index.html">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						<div class="clearfix"></div>
+					</div>
+					<!-- //second section (pumps) -->
+
+					<!-- third section (power tools) -->
+					<div class="product-sec1">
+						<h3 class="heading-tittle">Power Tools</h3>
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/ken.png" alt="product image" width="140" height="220" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  class="link-product-add-cart false"
+                  data-image=/images/photos/ken.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="products/power-tools/ken/">KEN</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="products/power-tools/ken/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+					 	
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/dewalt.png" alt="product image" width="140" height="220" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/photos/dewalt.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+					
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="products/power-tools/dewalt/">Dewalt</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="products/power-tools/dewalt/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+						
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/black&decker.png" alt="product image" width="140" height="220" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/mk9.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="products/power-tools/black.decker/">Black&Decker</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="products/power-tools/black.decker/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/stanley.png" alt="product image" width="140" height="220" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/photos/FPG1801.png
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="products/power-tools/stanley/">Stanley</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="products/power-tools/stanley/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+						
+						<div class="clearfix"></div>
+					</div>
+					<!-- //third section (power tools) -->
+
+					<!-- first section (generators) -->
+					<div class="product-sec1">
+						<h3 class="heading-tittle">Garage / Workshop Equipment</h3>
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/PipeBender.png" alt="product image" width="140" height="210" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/m1.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/workshop-equip/index.html">Pipe Benders</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/workshop-equip/index.html">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/aircompressor.jpg" alt="product image" width="140" height="210" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/m2.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/workshop-equip/aircompressors/">Air Compressors</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/generators/petrol/index.html">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/Y200L-4.png" alt="product image" width="140" height="210" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/photos/plus.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/workshop-equip/index.html">Electric Motors</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/petrolgen/Cashew/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/LD-HP7145.png" alt="product image" width="140" height="210" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/m2.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/workshop-equip/index.html">Pressure Washers</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/generators/petrol/index.html">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						<div class="clearfix"></div>
+					</div>
+					<!-- //first section (generators) -->
+
+					<!-- first section (generators) -->
+					<div class="product-sec1">
+						<h3 class="heading-tittle">Construction Machinery</h3>
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/m1.jpg" alt="product image" width="140" height="190" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/m1.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/construction-machinery/index.html">Compaction Equipment</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/petrolgen/Cashew/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/m2.jpg" alt="product image" width="140" height="210" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/m2.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/construction-machinery/index.html">Concrete Mixers</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/petrolgen/Cashew/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/PowerTrowel.png" alt="product image" width="140" height="210" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/photos/plus.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/construction-machinery/index.html">Power Trowels</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/petrolgen/Cashew/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+
+						
+      <div class="col-md-3 product-men">
+        <div class="men-pro-item simpleCart_shelfItem card">
+          <div class="men-thumb-item">
+            <img src="/images/photos/LHP20.png" alt="product image" width="140" height="210" class="card-img-top">
+            <div class="men-cart-pro display-none">
+              <div class="inner-men-cart-pro">
+                <a 
+                  href="#" 
+                  class="link-product-add-cart false"
+                  data-image=/images/photos/plus.jpg
+                >
+                  Quick View
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="item-info-product card-body">
+            <h4>
+              <a href="/products/construction-machinery/index.html">Poker Vibrators</a>
+            </h4>
+            <div class="info-product-price display-none">
+              <span class="item_price undefined">undefined</span>
+            </div>
+            <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+              <a href="/products/petrolgen/Cashew/">
+                <button class="custom-btn">
+                  learn more
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+				
+						<div class="clearfix"></div>
+					</div>
+					<!-- //first section (generators) -->
+				</div>
+			</div>
+			<!-- //product right -->
+		</div>
+	</div>
+	<!-- //top products -->
+
+
+	<!-- brands -->
+	<div class="featured-section" id="projects">
+		<div class="container">
+			<!-- tittle heading -->
+			<h3 class="tittle-w3l">Our Brands
+				<span class="heading-style">
+					<i></i>
+					<i></i>
+					<i></i>
+				</span>
+			</h3>
+			<!-- //tittle heading -->
+			<div class="content-bottom-in">
+				<ul id="flexiselDemo1">
+					
+      <li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/marquis.jpg" width="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+					
+      <li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/lenhard.jpg" width="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+    
+      <li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/ken.jpg" width="200" height="140" alt="brand image">
+            </a>
+          </div>
+      </li>
+    	
+      <li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/maybach.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/black&decker.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/colono.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/dewalt.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/elettromottori.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/husqvarna.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/jiangdong.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/kasten.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/telwin.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/maxima.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/powermax.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+
+			<li>
+        <div class="w3l-specilamk">
+          <div class="speioffer-agile">
+              <img src="/images/photos/brands/stanley.jpg" wwidth="180" height="140" alt="brand image">
+            </a>
+          </div>
+        </div>
+      </li>
+    
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- //brands -->
+
+	<!-- footer -->
+	<footer>
+		<div class="container">
+			<!-- //footer second section -->
+			<!-- footer third section -->
+			<div class="footer-info w3-agileits-info">
+				<!-- footer categories -->
+				<div class="col-sm-5 address-right">
+					<div class="col-xs-6 footer-grids">
+						<h3>Quick Links</h3>
+						<ul>
+							<li>
+								<a href="about.html">About Us</a>
+							</li>
+							<li>
+								<a href="contact.html">Contact Us</a>
+							</li>
+							<li>
+								<a
+									class="tolsen-link"
+									href="http://www.tolsentools.com/tolsen-products/"
+									target="_blank"
+									rel="noopener noreferrer"
+								>
+									Tolsen (Tools and more)
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<!-- //footer categories -->
+				<!-- quick links -->
+				<div class="col-sm-5 address-right">
+					<div class="col-xs-6 footer-grids">
+						<h3>Get in Touch</h3>
+						<ul>
+							<li>
+								<i class="fa fa-map-marker"></i> Road A, Industrial Area, opp. Express (K) Ltd.</li>
+							<li>
+								<i class="fa fa-mobile"></i> 254-20-530380/370/543/541 </li>
+							<li>
+								<i class="fa fa-phone"></i> 0722-797185, 0733-621833 </li>
+							<li>
+								<i class="fa fa-fax"></i>254-20-530539</li>
+							<li>
+								<i class="fa fa-envelope-o"></i>
+								<a href="mailto:multitools@wananchi.com"> multitools@wananchi.com</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<!-- //quick links -->
+				<!-- social icons -->
+				<div class="col-sm-2 footer-grids  w3l-socialmk">
+					<h3>Follow Us on</h3>
+					<div class="social">
+						<ul>
+							<li>
+								<a
+                  class="icon fb" 
+                  href="https://www.facebook.com/multitoolskenya"
+                  target="_blank"
+                  rel="noopener noreferrer"
+								>
+
+									<i class="fa fa-facebook"></i>
+								</a>
+							</li>
+							<li>
+								<a 
+                  class="icon tw" 
+									href="https://www.instagram.com/multitoolskltd/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >                  
+									<i class="fa fa-instagram"></i>
+								</a>
+							</li>
+							<li>
+								<a 
+                  class="icon gp" 
+                  href="https://www.youtube.com/channel/UCiZIMN6yPp2YxPdN-gEqs7g"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+									<i class="fa fa-youtube"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<!-- //social icons -->
+				<div class="clearfix"></div>
+			</div>
+			<!-- //footer third section -->
+		</div>
+	</footer>
+	<!-- //footer -->
+	<!-- copyright -->
+	<div class="copy-right">
+		<div class="container">
+			<p>&copy;
+				<script> document.write(new Date().getFullYear())</script> 
+				Multi Tools. All rights reserved</a>
+			</p>
+		</div>
+	</div>
+	<!-- //copyright -->
+
+	<!-- signup Model -->
+	<div class="modal fade" id="myModal2" tabindex="-1" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+				</div>
+				<div class="modal-body modal-body-sub_agile">
+					<div class="main-mailposi">
+						<span class="fa fa-envelope-o" aria-hidden="true"></span>
+					</div>
+					<div class="modal_body_left modal_body_left1">
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //signup Model -->
+	
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script 
+		src="https://code.jquery.com/jquery-2.2.4.min.js" 
+		integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" 
+		crossorigin="anonymous"
+	></script>
+	
+	<!-- popup modal (for signin & signup)-->
+	<script src="/js/jquerymagnificpopup.js"></script>
+	<script>
+		$(document).ready(function () {
+			$('.popup-with-zoom-anim').magnificPopup({
+				type: 'inline',
+				fixedContentPos: false,
+				fixedBgPos: true,
+				overflowY: 'auto',
+				closeBtnInside: true,
+				preloader: false,
+				midClick: true,
+				removalDelay: 300,
+				mainClass: 'my-mfp-zoom-in'
+			});
+
+		});
+	</script>
+	<!-- Large modal -->
+	<!-- <script>
+		$('#').modal('show');
+	</script> -->
+	<!-- //popup modal (for signin & signup)-->
+
+	<!-- cart-js -->
+	<script src="/js/minicart.js"></script>
+	<script>
+		paypalm.minicartk.render(); //use only unique class names other than paypalm.minicartk.Also Replace same class name in css and minicart.min.js
+
+		paypalm.minicartk.cart.on('checkout', function (evt) {
+			var items = this.items(),
+				len = items.length,
+				total = 0,
+				i;
+
+			// Count the number of each item in the cart
+			for (i = 0; i < len; i++) {
+				total += items[i].get('quantity');
+			}
+
+			if (total < 3) {
+				alert('The minimum order quantity is 3. Please add more to your shopping cart before checking out');
+				evt.preventDefault();
+			}
+		});
+	</script>
+	<!-- //cart-js -->
+
+	<!-- price range (top products) -->
+	<script src="/js/jqueryui.js"></script>
+	<script>
+		//<![CDATA[ 
+		$(window).load(function () {
+			$("#slider-range").slider({
+				range: true,
+				min: 0,
+				max: 9000,
+				values: [50, 6000],
+				slide: function (event, ui) {
+					$("#amount").val("$" + ui.values[0] + " - $" + ui.values[1]);
+				}
+			});
+			$("#amount").val("$" + $("#slider-range").slider("values", 0) + " - $" + $("#slider-range").slider("values", 1));
+
+		}); //]]>
+	</script>
+	<!-- //price range (top products) -->
+
+<!-- FlexSlider -->
+	<script src="/js/jqueryflexslider.js"></script>
+	<script>
+		// Can also be used with $(document).ready()
+		$(window).load(function () {
+			$('.flexslider').flexslider({
+				animation: "slide",
+				controlNav: "thumbnails"
+			});
+		});
+	</script>
+	<!-- //FlexSlider-->
+
+	<!-- imagezoom -->
+	<script src="/js/imagezoom.js"></script>
+	<!-- //imagezoom -->
+
+	<!-- flexisel (for special offers) -->
+	<script src="/js/jqueryflexisel.js"></script>
+	<script>
+		$(window).load(function () {
+			$("#flexiselDemo1").flexisel({
+				visibleItems: 3,
+				animationSpeed: 1000,
+				autoPlay: true,
+				autoPlaySpeed: 3000,
+				pauseOnHover: true,
+				enableResponsiveBreakpoints: true,
+				responsiveBreakpoints: {
+					portrait: {
+						changePoint: 480,
+						visibleItems: 1
+					},
+					landscape: {
+						changePoint: 640,
+						visibleItems: 2
+					},
+					tablet: {
+						changePoint: 768,
+						visibleItems: 2
+					}
+				}
+			});
+
+		});
+	</script>
+	<!-- //flexisel (for special offers) -->
+
+	<!-- smoothscroll -->
+	<script src="/js/SmoothScrollmin.js"></script>
+	<!-- //smoothscroll -->
+
+	<!-- start-smooth-scrolling -->
+	<script src="/js/movetop.js"></script>
+	<script src="/js/easing.js"></script>
+	<script>
+		jQuery(document).ready(function ($) {
+			$(".scroll").click(function (event) {
+				event.preventDefault();
+
+				$('html, body').animate({
+					scrollTop: $(this.hash).offset().top
+				}, 1000);
+			});
+		});
+	</script>
+	<!-- //end-smooth-scrolling -->
+
+	<!-- smooth-scrolling-of-move-up -->
+	<script>
+		$(document).ready(function () {
+			/*
+			var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+			};
+			*/
+			$().UItoTop({
+				easingType: 'easeOutQuart'
+			});
+
+		});
+	</script>
+	<!-- //smooth-scrolling-of-move-up -->
+
+	<!-- for bootstrap working -->
+	<script src="/js/bootstrap.js"></script>
+	<!-- //for bootstrap working -->
+	<!-- //js-files -->
+</body>
+
+</html>
